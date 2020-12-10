@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1070440160302",
+    "project_id": "flash-8d25b",
+    "storage_bucket": "flash-8d25b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1070440160302:android:70bd12183b94d80d99d3bf",
+        "android_client_info": {
+          "package_name": "com.proyecto.flash"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1070440160302-c7thf5kf6fv6pig345q6jv92ck7lgmu0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.proyecto.flash",
+            "certificate_hash": "3ce386bd555be319e34b8d1e2c940f2f30197baf"
+          }
+        },
+        {
+          "client_id": "1070440160302-6l12skbtfe8c6m2ks9lpmd1g70k2l9ee.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB0c1K-a8ETzr5y-HsJ1zutiveUN4xFbok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1070440160302-6l12skbtfe8c6m2ks9lpmd1g70k2l9ee.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
